@@ -6,7 +6,7 @@
   <a href="packet-tracer">Packet Tracer</a>
   <a href="career-goals">Career Goals</a>
   <a href="resume">Resume</a>
-  <a href="cover-letter">Cover Letter</a>
+  <a class="active" href="cover-letter">Cover Letter</a>
 </nav>
 
 ### Cover Letter
